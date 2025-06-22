@@ -1,0 +1,66 @@
+html, body, p  {
+    margin: 0;
+    padding: 0;
+    font-family: "Source Sans 3", sans-serif;
+}
+p {
+    font-size: 12px;
+}
+
+.hero {
+    display: flex;
+    justify-content:space-between ;
+    background-color: #ffffff;
+    border-bottom: 1px solid #C6C6C6;
+}
+
+.logo-1 {
+    width: 127px; 
+    
+}
+
+.user-avatar, .avatar-1 {
+    width: 34px; 
+    height: 34px;
+    border-radius: 50%;
+}
+
+.user-avatar, .logo-1 {
+    margin: 20px;
+}
+.post-1 {
+    margin: 20px 0 0 0;
+    display: flex;
+}
+.avatar-1 {
+    margin: 0 0 0 20px;
+}
+.title-1 {
+    margin: 0 0 0 5px;
+}
+.name{
+    font-weight: bold;
+}
+.avatar-img {
+    margin-top: 10px;
+    width: 100%;
+}
+.width-23 {
+    width: 23px;
+    margin: 23px 0 0 23px;
+}
+.flex-2 {
+    display: flex;
+}
+.bold {
+    font-weight: bold;
+}
+.para-1 {
+    margin: 15px 0 0 23px;
+}
+.name ,para-1 {
+    font-size: 13px;
+}
+.margin-15-bottom {
+    margin-bottom: 15px;
+}
