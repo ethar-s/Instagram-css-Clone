@@ -64,3 +64,12 @@ p {
 .margin-15-bottom {
     margin-bottom: 15px;
 }
+.action {
+    transition: 1s;
+    border: 1px solid #ffffff;
+}
+
+.action:hover, .action:focus  {
+    border: 1px solid blueviolet;
+    transition: 2s;
+}
